@@ -45,6 +45,28 @@ MoCapkiteFA is an addon for blender, that allows you to quickly set up facial mo
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/MoCapkiteFA?style=for-the-badge)
 
 
+## [Blender Project Starter:](https://github.com/BlenderDefender/blender_project_starter)
+Setup your Blender project folders the easy way! 
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/blender_project_starter?label=Version&style=for-the-badge)
+[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%241000%20(1%20Week%20Developer%20Time)-%240-red?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=TV9HL7YRHZR7U)  
+
+![GitHub](https://img.shields.io/github/license/BlenderDefender/blender_project_starter?color=green&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/blender_project_starter?style=for-the-badge)
+
+
+## [Blender Analytics:](https://github.com/BlenderDefender/Blender-Analytics)
+Setup your Blender project folders the easy way! 
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/Blender-Analytics?label=Version&style=for-the-badge)
+[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%245-red?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=TV9HL7YRHZR7U)
+
+![GitHub](https://img.shields.io/github/license/BlenderDefender/Blender-Analytics?color=green&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/Blender-Analytics?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/Blender-Analytics?style=for-the-badge)
+
+
 
 <!--
 **BlenderDefender/BlenderDefender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
