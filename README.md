@@ -104,7 +104,7 @@ Download the addon to access four cool Procedural Materials with one click [(and
 ## [After Creation Menu Template:](https://github.com/BlenderDefender/After-Creation-Menu-Template)
 If you are a new Blender Python Developer, this template for the "After Creation Menu" (Bottom Left) will help you.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/After-Creation-Menu-Template?label=Version%20Number&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/After-Creation-Menu-Template?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%2440%20(2%20Hours%20Developer%20Time)-%240-red?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=TV9HL7YRHZR7U)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/After-Creation-Menu-Template?color=green&style=for-the-badge)
