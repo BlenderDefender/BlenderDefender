@@ -46,11 +46,11 @@ MoCapkiteFA is an addon for blender, that allows you to quickly set up facial mo
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/MoCapkiteFA?style=for-the-badge)
 
 
-## [Blender Project Starter:](https://github.com/BlenderDefender/blender_project_starter)
+## [Blender Project Manager:](https://github.com/BlenderDefender/blender_project_manager)
 Setup your Blender project folders the easy way! 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/blender_project_starter?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%241000%20(1%20Week%20Developer%20Time)-%240-red?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=TV9HL7YRHZR7U)  
+[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%241000%20(1%20Week%20Developer%20Time)-%240-red?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=DZE9NFSFPFMYS)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/blender_project_starter?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)
