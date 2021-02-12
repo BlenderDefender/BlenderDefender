@@ -61,7 +61,7 @@ Setup your Blender project folders the easy way!
 Keep track of your Blender Usage times to motivate you using Blender more! 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/Blender-Analytics?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%245-red?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=TPH9D4NXRDP9Y)
+[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%245-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=TPH9D4NXRDP9Y)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/Blender-Analytics?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/Blender-Analytics?style=for-the-badge)
