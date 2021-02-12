@@ -28,7 +28,7 @@ Import Voodoo Camera Tracker Scripts (for Blender 2.5) to Blender 2.8x the easy 
 If you want to know more [watch or read this tutorial.](https://defenderblender.artstation.com/pages/voodoo-tracker-is-outdated-but-heres-how-you-can-still-use-it-in-blender)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/io_voodoo_tracks?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%241000%20(1%20Week%20Developer%20Time)-%2410-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=5XJLJRSZW7Q9A)
+[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%241000%20(1%20Week%20Developer%20Time)-%2410-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=5XJLJRSZW7Q9A)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/io_voodoo_tracks?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/io_voodoo_tracks?style=for-the-badge)
@@ -39,7 +39,7 @@ If you want to know more [watch or read this tutorial.](https://defenderblender.
 MoCapkiteFA is an addon for blender, that allows you to quickly set up facial motion capture with just 3 easy steps.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/MoCapkiteFA?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=G55AG65MPHLM6)
+[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=G55AG65MPHLM6)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/MoCapkiteFA?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/MoCapkiteFA?style=for-the-badge)
