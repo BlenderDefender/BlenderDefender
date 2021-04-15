@@ -61,7 +61,7 @@ Setup your Blender project folders the easy way!
 Keep track of your Blender Usage times to motivate you using Blender more! 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/Blender-Analytics?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%245-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=TPH9D4NXRDP9Y)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBLENDERANALYTICS.json)](https://www.paypal.com/donate?hosted_button_id=TPH9D4NXRDP9Y)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/Blender-Analytics?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/Blender-Analytics?style=for-the-badge)
@@ -72,7 +72,7 @@ Keep track of your Blender Usage times to motivate you using Blender more!
 This tool built for developers Helps you to implement the Addon Updater by [CG Cookie](https://github.com/CGCookie/blender-addon-updater).
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/implement_addon_updater?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%24280%20(2%20Days%20Developer%20Time)-%246-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=HFM7R3K9VXEXJ)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FIMPLEMENTADDONUPDATER.json)](https://www.paypal.com/donate?hosted_button_id=HFM7R3K9VXEXJ)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/implement_addon_updater?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/implement_addon_updater?style=for-the-badge)
@@ -84,7 +84,7 @@ This tool built for developers Helps you to implement the Addon Updater by [CG C
 Manage your Custom Bone Shapes easier than ever before!
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/boneWidget?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%24560%20(4%20Days%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=TXWH8AL9UJDUJ)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBONEWIDGET.json)](https://www.paypal.com/donate?hosted_button_id=TXWH8AL9UJDUJ)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/boneWidget?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/boneWidget?style=for-the-badge)
@@ -95,7 +95,7 @@ Manage your Custom Bone Shapes easier than ever before!
 Download the addon to access four cool Procedural Materials with one click [(and click here for extension packs and more)](https://gumroad.com/blenderdefender):
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/ProceduralNodes?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%24140%20(1%20Day%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=WNJX7UUG4W6P2)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FPROCEDURALNODES.json)](https://www.paypal.com/donate?hosted_button_id=WNJX7UUG4W6P2)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/ProceduralNodes?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/ProceduralNodes?style=for-the-badge)
@@ -106,7 +106,7 @@ Download the addon to access four cool Procedural Materials with one click [(and
 If you are a new Blender Python Developer, this template for the "After Creation Menu" (Bottom Left) will help you.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/After-Creation-Menu-Template?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%2440%20(2%20Hours%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=94EG5KLXM6WWU)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FAFTERCREATIONMENUTEMPLATE.json)](https://www.paypal.com/donate?hosted_button_id=94EG5KLXM6WWU)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/After-Creation-Menu-Template?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/After-Creation-Menu-Template?style=for-the-badge)
