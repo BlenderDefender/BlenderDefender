@@ -28,7 +28,7 @@ Import Voodoo Camera Tracker Scripts (for Blender 2.5) to Blender 2.8x the easy 
 If you want to know more [watch or read this tutorial.](https://defenderblender.artstation.com/pages/voodoo-tracker-is-outdated-but-heres-how-you-can-still-use-it-in-blender)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/io_voodoo_tracks?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%241000%20(1%20Week%20Developer%20Time)-%2411-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=5XJLJRSZW7Q9A)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FIO_VOODOO_TRACKS.json)](https://www.paypal.com/donate?hosted_button_id=5XJLJRSZW7Q9A)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/io_voodoo_tracks?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/io_voodoo_tracks?style=for-the-badge)
@@ -50,7 +50,7 @@ MoCapkiteFA is an addon for blender, that allows you to quickly set up facial mo
 Setup your Blender project folders the easy way! 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/blender_project_starter?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBlender_PM.json)](https://www.paypal.com/donate?hosted_button_id=DZE9NFSFPFMYS)  
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBlender_PM.json)](https://www.paypal.com/donate?hosted_button_id=DZE9NFSFPFMYS)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/blender_project_starter?color=green&style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)](https://github.com/BlenderDefender/blender_pm/issues)
