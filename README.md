@@ -4,7 +4,7 @@ My artists name is Blender Defender and I'm a Blender 3D Artist and Blender Addo
 
 My vision is to declare Blender as good as even possible and make Tutorials, that you don't just follow along but after which you know what the settings do and you can change them to your own benefit. 
 
-Currently, I produce quick tip videos for you, so that you can pick up very important knowledge quickly. You can [find my Youtube channel here.](https://www.youtube.com/channel/UCye7Q9pi_3WlW4G7h8DNCWw)
+Currently, I produce quick tip videos for you, so that you can pick up very important knowledge quickly. You can [find my Youtube channel here.](https://www.youtube.com/blenderdefender)
 
 ## About me
 
