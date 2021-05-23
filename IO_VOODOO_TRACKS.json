@@ -4,5 +4,6 @@
   "message": "$17",
   "color": "FF4000",
   "style": "for-the-badge",
-  "namedLogo": "paypal"
+  "namedLogo": "paypal",
+  "goal": 1000
 }
