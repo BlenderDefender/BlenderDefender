@@ -22,6 +22,17 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 
 
 # My Addons and GitHub repositories:
+<!--
+## [Cental Addon Updater:](https://github.com/BlenderDefender/central_addon_updater)
+<!-- Addon Description goes here! -->
+<!--
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/central_addon_updater?label=Version&style=for-the-badge)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FCENTALADDONUPDATER.json)](https://www.paypal.com/donate?hosted_button_id=8KAHZ55ZG5HDC)
+
+![GitHub](https://img.shields.io/github/license/BlenderDefender/central_addon_updater?color=green&style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/central_addon_updater?style=for-the-badge)](https://github.com/BlenderDefender/central_addon_updater/issues)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/central_addon_updater?style=for-the-badge)
+-->
 
 ## [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
 Import Voodoo Camera Tracker Scripts (for Blender 2.5) to Blender 2.8x the easy way!
