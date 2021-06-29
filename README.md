@@ -23,7 +23,7 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 
 # My Addons and GitHub repositories:
 <!--
-## [Cental Addon Updater:](https://github.com/BlenderDefender/central_addon_updater)
+## [Super Addon Updater:](https://github.com/BlenderDefender/central_addon_updater)
 <!-- Addon Description goes here! -->
 <!--
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/central_addon_updater?label=Version&style=for-the-badge)
@@ -33,6 +33,17 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/central_addon_updater?style=for-the-badge)](https://github.com/BlenderDefender/central_addon_updater/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/central_addon_updater?style=for-the-badge)
 -->
+
+## [Super Project Manager:](https://github.com/BlenderDefender/blender_project_manager)
+Setup your Blender project folders the easy way! 
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/blender_project_starter?label=Version&style=for-the-badge)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBlender_PM.json)](https://www.paypal.com/donate?hosted_button_id=DZE9NFSFPFMYS)
+
+![GitHub](https://img.shields.io/github/license/BlenderDefender/blender_project_starter?color=green&style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)](https://github.com/BlenderDefender/blender_pm/issues)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/blender_project_starter?style=for-the-badge)
+
 
 ## [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
 Import Voodoo Camera Tracker Scripts (for Blender 2.5) to Blender 2.8x the easy way!
@@ -55,17 +66,6 @@ MoCapkiteFA is an addon for blender, that allows you to quickly set up facial mo
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/MoCapkiteFA?color=green&style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/MoCapkiteFA?style=for-the-badge)](https://github.com/BlenderDefender/MoCapkiteFA/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/MoCapkiteFA?style=for-the-badge)
-
-
-## [Blender PM (Project Manager):](https://github.com/BlenderDefender/blender_project_manager)
-Setup your Blender project folders the easy way! 
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/blender_project_starter?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBlender_PM.json)](https://www.paypal.com/donate?hosted_button_id=DZE9NFSFPFMYS)
-
-![GitHub](https://img.shields.io/github/license/BlenderDefender/blender_project_starter?color=green&style=for-the-badge)
-[![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)](https://github.com/BlenderDefender/blender_pm/issues)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/blender_project_starter?style=for-the-badge)
 
 
 ## [Blender Analytics:](https://github.com/BlenderDefender/Blender-Analytics)
