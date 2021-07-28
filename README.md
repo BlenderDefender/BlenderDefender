@@ -23,7 +23,7 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 
 # My Addons and GitHub repositories:
 <!--
-## [Super Addon Updater:](https://github.com/BlenderDefender/central_addon_updater)
+## [Super Addon Manager:](https://github.com/BlenderDefender/central_addon_updater)
 <!-- Addon Description goes here! -->
 <!--
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/central_addon_updater?label=Version&style=for-the-badge)
@@ -68,7 +68,7 @@ MoCapkiteFA is an addon for blender, that allows you to quickly set up facial mo
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/MoCapkiteFA?style=for-the-badge)
 
 
-## [Blender Analytics:](https://github.com/BlenderDefender/Blender-Analytics)
+## [Super Blender Analytics:](https://github.com/BlenderDefender/Blender-Analytics)
 Keep track of your Blender Usage times to motivate you using Blender more! 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/Blender-Analytics?label=Version&style=for-the-badge)
