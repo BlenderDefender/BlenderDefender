@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "label": "Donate! Funding Goal: $160 (1 day developer time)",
+    "label": "Donate! Funding Goal: $200 (1 day developer time)",
     "message": "$6",
-    "color": "FF1C00",
+    "color": "FF1600",
     "style": "for-the-badge",
     "namedLogo": "paypal"
 }
