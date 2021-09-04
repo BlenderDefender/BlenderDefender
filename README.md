@@ -103,7 +103,7 @@ Manage your Custom Bone Shapes easier than ever before!
 
 
 ## [Procedural Nodes:](https://github.com/BlenderDefender/ProceduralNodes)
-Download the addon to access four cool Procedural Materials with one click [(and click here for extension packs and more)](https://gumroad.com/blenderdefender):
+Download the addon to access four cool Procedural Materials with one click:
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/ProceduralNodes?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FPROCEDURALNODES.json)](https://www.paypal.com/donate?hosted_button_id=TV9HL7YRHZR7U)
