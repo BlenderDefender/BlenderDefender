@@ -112,7 +112,7 @@ Download the addon to access four cool Procedural Materials with one click:
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/ProceduralNodes?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/ProceduralNodes?style=for-the-badge)
 
-
+<!--
 ## [After Creation Menu Template:](https://github.com/BlenderDefender/After-Creation-Menu-Template)
 If you are a new Blender Python Developer, this template for the "After Creation Menu" (Bottom Left) will help you.
 
@@ -124,7 +124,7 @@ If you are a new Blender Python Developer, this template for the "After Creation
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/After-Creation-Menu-Template?style=for-the-badge)
 
 
-<!--
+
 **BlenderDefender/BlenderDefender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
