@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCye7Q9pi_3WlW4G7h8DNCWw"
           comment_tag_name: "YOUTUBE"
-          template: "$newline $randomEmoji(✅,💫,🚀,😀, 🙂, 👌, 👍, ✨, 🕊, 🕊, 🕊) [$title]($url)"
+          template: "$newline $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
