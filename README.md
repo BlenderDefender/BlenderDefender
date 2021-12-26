@@ -58,7 +58,7 @@ If you want to know more [watch or read this tutorial.](https://defenderblender.
 
 ## [MoCapkiteFA:](https://github.com/BlenderDefender/MoCapkiteFA)
 
-MoCapkiteFA is an addon for blender, that allows you to quickly set up facial motion capture with just 3 easy steps.
+MoCapkiteFA is an addon for Blender, that allows you to quickly set up facial motion capture with just 3 easy steps.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/MoCapkiteFA?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FMOCAPKITEFA.json)](https://gum.co/MocapkiteFA?price=20)
@@ -105,9 +105,6 @@ Manage your Custom Bone Shapes easier than ever before!
 <!-- YOUTUBE:START -->
 - [Blender 3.0 - Inofficial Trailer](https://www.youtube.com/watch?v=yh-RbW8dY-M)
 - [How to INSPECT YOUR SCENES with SEA | #BDQuickTips](https://www.youtube.com/watch?v=k3-mYycQDzw)
-- [How to SNAP Keyframes in Blender | #BDQuickTips](https://www.youtube.com/watch?v=jCcoZ4QTvUs)
-- [How to FLIP Keyframes fast in Blender | #BDQuickTips](https://www.youtube.com/watch?v=nT3GdBHrwOo)
-- [How to preview your Projects with your OWN HDRI | #BDQuickTips](https://www.youtube.com/watch?v=njuRr3xTp84)
 <!-- YOUTUBE:END -->
 <!--
 ## [Procedural Nodes:](https://github.com/BlenderDefender/ProceduralNodes)
