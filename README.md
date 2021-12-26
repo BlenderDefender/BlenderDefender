@@ -19,6 +19,7 @@ In 4 years, when we're all living a regular life again, I want to have grown and
 From an artistic point of view, I desire to have worked on multiple projects. Private and small GIMP-Projects, as well as medium and bigger Blender-Projects.
 From a programmer point of view, I want to have a good knowledge so I can program for [Blender.](https://www.blender.org/)
 
+
 # My Addons and GitHub repositories:
 
 <!--
@@ -99,6 +100,12 @@ Manage your Custom Bone Shapes easier than ever before!
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/boneWidget?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/boneWidget?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/boneWidget?style=for-the-badge)
+
+
+# My Github stats:
+[![Blender Defenders's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderDefender&count_private=true&show_icons=true)](https://github.com/BlenderDefender/SuperProjectManager)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlenderDefender&layout=compact)](https://github.com/BlenderDefender/SuperEasyAnalytics)
 
 
 # Latest Youtube videos
