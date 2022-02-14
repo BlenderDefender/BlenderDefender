@@ -110,11 +110,11 @@ Manage your Custom Bone Shapes easier than ever before!
 
 # Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Happy New Year | #shorts](https://www.youtube.com/watch?v=UNLxrUbI_a8)
 - [Blender 3.0 - Inofficial Trailer](https://www.youtube.com/watch?v=yh-RbW8dY-M)
 - [How to INSPECT YOUR SCENES with SEA | #BDQuickTips](https://www.youtube.com/watch?v=k3-mYycQDzw)
 - [How to SNAP Keyframes in Blender | #BDQuickTips](https://www.youtube.com/watch?v=jCcoZ4QTvUs)
 - [How to FLIP Keyframes fast in Blender | #BDQuickTips](https://www.youtube.com/watch?v=nT3GdBHrwOo)
-- [How to preview your Projects with your OWN HDRI | #BDQuickTips](https://www.youtube.com/watch?v=njuRr3xTp84)
 <!-- YOUTUBE:END -->
 <!--
 ## [Procedural Nodes:](https://github.com/BlenderDefender/ProceduralNodes)
