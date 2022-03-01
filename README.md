@@ -8,17 +8,17 @@ Currently, I produce quick tip videos for you, so that you can pick up very impo
 
 ## About me
 
-I am a young Blender Artist from Germany. I've discovered Blender more than 2 years ago and have been using it ever since. From then on, I've got myself familiar with the concepts of 3D.
+I am a young Blender Artist from Germany. I've discovered Blender more than 3 years ago and have been using it ever since. From then on, I've got myself familiar with the concepts of 3D.
 
 My favorite tool in Blender is definitely the Node Editor since I'm a huge fan of the concept of proceduralism/non-destructive modeling.
 
-## Where do I see myself in 4 years?
+<!-- ## Where do I see myself in 4 years?
 
 In 4 years, when we're all living a regular life again, I want to have grown and established my YouTube channel and my free Addons. I also hope to have started living my vision with the help of the Blender Community.
 
 From an artistic point of view, I desire to have worked on multiple projects. Private and small GIMP-Projects, as well as medium and bigger Blender-Projects.
 From a programmer point of view, I want to have a good knowledge so I can program for [Blender.](https://www.blender.org/)
-
+ -->
 
 # My Addons and GitHub repositories:
 
