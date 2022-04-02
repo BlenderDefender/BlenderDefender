@@ -107,6 +107,11 @@ Manage your Custom Bone Shapes easier than ever before!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlenderDefender&layout=compact)](https://github.com/BlenderDefender/SuperEasyAnalytics)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BlenderDefender/SuperProjectManager,BlenderDefender/SuperEasyAnalytics,BlenderDefender/io_voodoo_tracks,BlenderDefender/MoCapkiteFA&type=Date)](https://star-history.com/#BlenderDefender/SuperProjectManager&BlenderDefender/SuperEasyAnalytics&BlenderDefender/io_voodoo_tracks&BlenderDefender/MoCapkiteFA&Date)
+
+
 
 # Latest Youtube videos
 <!-- YOUTUBE:START -->
