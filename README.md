@@ -62,7 +62,7 @@ If you want to know more [watch or read this tutorial.](https://defenderblender.
 MoCapkiteFA is an addon for Blender, that allows you to quickly set up facial motion capture with just 3 easy steps.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/MoCapkiteFA?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FMOCAPKITEFA.json)](https://gum.co/MocapkiteFA?price=20)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FMOCAPKITEFA.json)](https://gum.co/MocapkiteFA?price=20&variant=Donator%20Version)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/MoCapkiteFA?color=green&style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/MoCapkiteFA?style=for-the-badge)](https://github.com/BlenderDefender/MoCapkiteFA/issues)
@@ -84,7 +84,7 @@ Keep track of your Blender Usage times to motivate you using Blender more!
 This tool built for developers Helps you to implement the Addon Updater by [CG Cookie](https://github.com/CGCookie/blender-addon-updater).
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/implement_addon_updater?label=Version&style=for-the-badge)
-![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FIMPLEMENTADDONUPDATER.json)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FIMPLEMENTADDONUPDATER.json)](https://gum.co/ImplementAddonUpdater?price=20&&variant=Donator%20Version)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/implement_addon_updater?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/implement_addon_updater?style=for-the-badge)
@@ -95,7 +95,7 @@ This tool built for developers Helps you to implement the Addon Updater by [CG C
 Manage your Custom Bone Shapes easier than ever before!
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/boneWidget?label=Version&style=for-the-badge)
-![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBONEWIDGET.json)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBONEWIDGET.json)](https://gum.co/boneWidget?price=15)
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/boneWidget?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/boneWidget?style=for-the-badge)
