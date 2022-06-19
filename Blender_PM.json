@@ -4,5 +4,6 @@
     "message": "$87 (Outdated)",
     "color": "161616",
     "style": "for-the-badge",
-    "namedLogo": "paypal"
+    "namedLogo": "gumroad",
+    "logoColor": "#ffffff"
 }

@@ -4,5 +4,6 @@
     "message": "$16",
     "color": "FF3D00",
     "style": "for-the-badge",
-    "namedLogo": "paypal"
+    "namedLogo": "gumroad",
+    "logoColor": "#ffffff"
 }

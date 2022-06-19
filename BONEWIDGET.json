@@ -4,5 +4,6 @@
     "message": "$10",
     "color": "FF0900",
     "style": "for-the-badge",
-    "namedLogo": "gumroad"
+    "namedLogo": "gumroad",
+    "logoColor": "#ffffff"
 }
