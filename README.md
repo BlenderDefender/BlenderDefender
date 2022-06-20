@@ -33,7 +33,17 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/central_addon_updater?style=for-the-badge)](https://github.com/BlenderDefender/central_addon_updater/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/central_addon_updater?style=for-the-badge)
 -->
+<!-- GMOPS:START
+## Brand new addon: Gizmodal Ops
+My new addon Gizmodal Ops has just been released. You can get it on [Gumroad](https://gum.co/GizmodalOps) and [GitHub.](https://github.com/BlenderDefender/Gizmodal-Ops)
+Gizmodal Ops seamlessly blends Gizmo and Modal operations to create a much more intuitive workflow.
 
+Features:
+
+- Reveals/Hides the gizmo during modal operations.
+- Makes working in Blender much easier & more intuitive.
+- Indispensable for teachers.
+GMOPS:END -->
 ## [Super Project Manager:](https://github.com/BlenderDefender/blender_project_manager)
 
 Setup your Blender project folders the easy way!
