@@ -111,7 +111,7 @@ This tool built for developers Helps you to implement the Addon Updater by [CG C
 Manage your Custom Bone Shapes easier than ever before!
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/boneWidget?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBONEWIDGET.json)](https://e846c.netlify.app/bone-widget)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBONEWIDGET.json)](https://bd-links.netlify.app/bone-widget)
 
 
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/boneWidget?color=green&style=for-the-badge)
