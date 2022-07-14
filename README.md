@@ -37,16 +37,6 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/central_addon_updater?style=for-the-badge)
 -->
 
-## Brand new addon: Gizmodal Ops
-My new addon Gizmodal Ops has just been released. You can get it on [Gumroad](https://gum.co/GizmodalOps), [Blender Market](https://blendermarket.com/products/gizmodal-ops) and [GitHub.](https://github.com/BlenderDefender/Gizmodal-Ops)
-Gizmodal Ops seamlessly blends Gizmo and Modal operations to create a much more intuitive workflow.
-
-Features:
-
-- Access Gizmo and modal operations with **one shortcut.**
-- Makes working in Blender much **easier** & more **intuitive**.
-- **Indispensable** for teachers.
-
 ## [Super Project Manager:](https://github.com/BlenderDefender/blender_project_manager)
 
 Setup your Blender project folders the easy way!
@@ -57,6 +47,17 @@ Setup your Blender project folders the easy way!
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/blender_project_starter?color=green&style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)](https://github.com/BlenderDefender/blender_pm/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/blender_project_starter?style=for-the-badge)
+
+## [Super Easy Analytics:](https://github.com/BlenderDefender/SuperEasyAnalytics)
+
+Keep track of your Blender Usage times to motivate you using Blender more!
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/SuperEasyAnalytics?label=Version&style=for-the-badge)
+[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FSUPEREASYANALYTICS.json)](https://blendermarket.com/products/blender-analytics)
+
+![GitHub](https://img.shields.io/github/license/BlenderDefender/SuperEasyAnalytics?color=green&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/SuperEasyAnalytics?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/SuperEasyAnalytics?style=for-the-badge)
 
 ## [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
 
@@ -69,6 +70,16 @@ If you want to know more [watch or read this tutorial.](https://defenderblender.
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/io_voodoo_tracks?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/io_voodoo_tracks?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/io_voodoo_tracks?style=for-the-badge)
+
+## [Gizmodal Ops](https://github.com/BlenderDefender/Gizmodal-Ops)
+Gizmodal Ops seamlessly blends Gizmo and Modal operations to create a much more intuitive workflow.
+
+Features:
+- Access Gizmo and modal operations with **one shortcut.**
+- Makes working in Blender much **easier** & more **intuitive**.
+- **Indispensable** for teachers.
+
+<!-- My new addon Gizmodal Ops has just been released. You can get it on [Gumroad](bd-links.netlify.app/gizmodal-ops?s=free), [Blender Market](bd-links.netlify.app/gizmodal-ops?s=bm) and [GitHub.](bd-links.netlify.app/gizmodal-ops?s=gh) -->
 
 ## [MoCapkiteFA:](https://github.com/BlenderDefender/MoCapkiteFA)
 
@@ -83,16 +94,6 @@ MoCapkiteFA is an addon for Blender, that allows you to quickly set up facial mo
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/MoCapkiteFA?style=for-the-badge)](https://github.com/BlenderDefender/MoCapkiteFA/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/MoCapkiteFA?style=for-the-badge)
 
-## [Super Easy Analytics:](https://github.com/BlenderDefender/SuperEasyAnalytics)
-
-Keep track of your Blender Usage times to motivate you using Blender more!
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/SuperEasyAnalytics?label=Version&style=for-the-badge)
-[![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FSUPEREASYANALYTICS.json)](https://blendermarket.com/products/blender-analytics)
-
-![GitHub](https://img.shields.io/github/license/BlenderDefender/SuperEasyAnalytics?color=green&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/SuperEasyAnalytics?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/SuperEasyAnalytics?style=for-the-badge)
 
 ## [Implement Addon Updater:](https://github.com/BlenderDefender/implement_addon_updater)
 
