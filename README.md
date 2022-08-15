@@ -128,7 +128,7 @@ Manage your Custom Bone Shapes easier than ever before!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BlenderDefender/SuperProjectManager,BlenderDefender/SuperEasyAnalytics,BlenderDefender/io_voodoo_tracks,BlenderDefender/MoCapkiteFA,BlenderDefender/Gizmodal-Ops&type=Date)](https://star-history.com/#BlenderDefender/SuperProjectManager&BlenderDefender/SuperEasyAnalytics&BlenderDefender/io_voodoo_tracks&BlenderDefender/MoCapkiteFA&BlenderDefender/Gizmodal-Ops&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=BlenderDefender/SuperEasyAnalytics,BlenderDefender/io_voodoo_tracks,BlenderDefender/MoCapkiteFA,BlenderDefender/Gizmodal-Ops,PidgeonTools/SuperProjectManager&type=Date)](https://star-history.com/#BlenderDefender/SuperEasyAnalytics&BlenderDefender/io_voodoo_tracks&BlenderDefender/MoCapkiteFA&BlenderDefender/Gizmodal-Ops&PidgeonTools/SuperProjectManager&Date)
 
 
 
