@@ -48,16 +48,16 @@ Setup your Blender project folders the easy way!
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)](https://github.com/BlenderDefender/blender_pm/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/blender_project_starter?style=for-the-badge)
 
-## [Super Easy Analytics:](https://github.com/BlenderDefender/SuperEasyAnalytics)
+## [Super Easy Analytics:](https://github.com/PidgeonTools/SuperEasyAnalytics)
 
 Keep track of your Blender Usage times to motivate you using Blender more!
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/SuperEasyAnalytics?label=Version&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/PidgeonTools/SuperEasyAnalytics?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FSUPEREASYANALYTICS.json)](https://blendermarket.com/products/blender-analytics)
 
-![GitHub](https://img.shields.io/github/license/BlenderDefender/SuperEasyAnalytics?color=green&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/SuperEasyAnalytics?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/SuperEasyAnalytics?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/PidgeonTools/SuperEasyAnalytics?color=green&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/PidgeonTools/SuperEasyAnalytics?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PidgeonTools/SuperEasyAnalytics?style=for-the-badge)
 
 ## [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
 
@@ -128,7 +128,8 @@ Manage your Custom Bone Shapes easier than ever before!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BlenderDefender/SuperEasyAnalytics,BlenderDefender/io_voodoo_tracks,BlenderDefender/MoCapkiteFA,BlenderDefender/Gizmodal-Ops,PidgeonTools/SuperProjectManager&type=Date)](https://star-history.com/#BlenderDefender/SuperEasyAnalytics&BlenderDefender/io_voodoo_tracks&BlenderDefender/MoCapkiteFA&BlenderDefender/Gizmodal-Ops&PidgeonTools/SuperProjectManager&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=BlenderDefender/io_voodoo_tracks,BlenderDefender/MoCapkiteFA,BlenderDefender/Gizmodal-Ops,PidgeonTools/SuperProjectManager,PidgeonTools/SuperEasyAnalytics&type=Date)](https://star-history.com/#BlenderDefender/io_voodoo_tracks&BlenderDefender/MoCapkiteFA&BlenderDefender/Gizmodal-Ops&PidgeonTools/SuperProjectManager&PidgeonTools/SuperEasyAnalytics&Date)
+
 
 
 
