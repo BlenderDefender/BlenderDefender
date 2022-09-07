@@ -135,11 +135,11 @@ Manage your Custom Bone Shapes easier than ever before!
 
 # Latest Youtube videos
 <!-- YOUTUBE:START -->
+- [Super Project Manager &lpar;SPM&rpar; - Improving the UI](https://www.youtube.com/watch?v=SZkz7pnF4V8)
 - [How you can use Gizmodal Ops to IMPROVE your transform workflow | #BDQuickTips](https://www.youtube.com/watch?v=7jbyjevN26w)
 - [HOTFIX - Bone Widget 1.9 &lpar;Link in the description&rpar;](https://www.youtube.com/watch?v=3jQ7e01Tjzg)
 - [My Blender is Broken #D10591 - Bug report video from 01.04.2022](https://www.youtube.com/watch?v=VRONMyeV7p8)
 - [Happy New Year | #shorts](https://www.youtube.com/watch?v=UNLxrUbI_a8)
-- [Blender 3.0 - Inofficial Trailer](https://www.youtube.com/watch?v=yh-RbW8dY-M)
 <!-- YOUTUBE:END -->
 
 <!--
