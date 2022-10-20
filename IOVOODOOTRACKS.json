@@ -4,11 +4,11 @@
         {
             "version": [
                 1,
-                2,
-                1
+                0,
+                8
             ],
             "allow_automatic_download": true,
-            "download_url": "https://github.com/PidgeonTools/SuperEasyAnalytics/releases/download/1_2_1/SuperEasyAnalytics.zip",
+            "download_url": "https://github.com/BlenderDefender/io_voodoo_tracks/archive/refs/tags/1.0.7.zip",
             "minimum_blender_version": [
                 2,
                 83,
