@@ -37,7 +37,7 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/central_addon_updater?style=for-the-badge)
 -->
 
-## [Super Project Manager:](https://github.com/BlenderDefender/blender_project_manager)
+## [Super Project Manager:](https://github.com/PidgeonTools/SuperProjectManager)
 
 Setup your Blender project folders the easy way!
 
@@ -122,9 +122,9 @@ Manage your Custom Bone Shapes easier than ever before!
 
 
 # My Github stats:
-[![Blender Defenders's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderDefender&count_private=true&show_icons=true)](https://github.com/BlenderDefender/SuperProjectManager)
+[![Blender Defenders's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderDefender&count_private=true&show_icons=true)](https://github.com/PidgeonTools/SuperProjectManager)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlenderDefender&layout=compact)](https://github.com/BlenderDefender/SuperEasyAnalytics)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlenderDefender&layout=compact)](https://github.com/PidgeonTools/SuperEasyAnalytics)
 
 ## Star History
 
