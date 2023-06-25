@@ -1,18 +1,18 @@
-### Hi there 👋
+# Blender Defender
 
-My artists name is Blender Defender and I'm a Blender 3D Artist and Blender Addons Programmer.
+## Introduction
 
-My vision is to declare Blender as good as even possible and make Tutorials, that you don't just follow along but after which you know what the settings do and you can change them to your own benefit.
+Hello! I'm Blender Defender, a passionate programmer (and Blender 3D artist) from Germany. I specialize in developing Blender addons.
 
-Currently, I produce quick tip videos for you, so that you can pick up very important knowledge quickly. You can [find my Youtube channel here.](https://www.youtube.com/blenderdefender)
+I've discovered Blender more than 4 years ago and have been using it ever since. From then on, I've got myself familiar with the concepts of 3D. My favorite tool in Blender is the Node Editor since I'm a huge fan of the concept of proceduralism/non-destructive modeling.
 
-## About me
+<!-- My vision is to declare Blender as good as even possible and make Tutorials, that you don't just follow along but after which you know what the settings do and you can change them to your own benefit. -->
 
+<!-- Currently, I produce quick tip videos for you, so that you can pick up very important knowledge quickly. You can [find my Youtube channel here.](https://www.youtube.com/blenderdefender) -->
 
-I am a young Blender Artist from Germany. I've discovered Blender more than 3 years ago and have been using it ever since. From then on, I've got myself familiar with the concepts of 3D.
+<!-- ## About me -->
 
-
-My favorite tool in Blender is definitely the Node Editor since I'm a huge fan of the concept of proceduralism/non-destructive modeling.
+<!-- I am a young Blender Artist from Germany. -->
 
 <!-- ## Where do I see myself in 4 years?
 
@@ -22,11 +22,16 @@ From an artistic point of view, I desire to have worked on multiple projects. Pr
 From a programmer point of view, I want to have a good knowledge so I can program for [Blender.](https://www.blender.org/)
  -->
 
+## Skills
 
-# My Addons and GitHub repositories:
+- Blender Addon Development
+- Python
+- Version Control (Git)
+
+## My Addons and GitHub repositories:
 
 <!--
-## [Super Addon Manager:](https://github.com/BlenderDefender/central_addon_updater)
+### [Super Addon Manager:](https://github.com/BlenderDefender/central_addon_updater)
 <!-- Addon Description goes here! -->
 <!--
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/central_addon_updater?label=Version&style=for-the-badge)
@@ -37,7 +42,7 @@ From a programmer point of view, I want to have a good knowledge so I can progra
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/central_addon_updater?style=for-the-badge)
 -->
 
-## [Super Project Manager:](https://github.com/PidgeonTools/SuperProjectManager)
+### [Super Project Manager:](https://github.com/PidgeonTools/SuperProjectManager)
 
 Setup your Blender project folders the easy way!
 
@@ -48,7 +53,7 @@ Setup your Blender project folders the easy way!
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/blender_project_starter?style=for-the-badge)](https://github.com/BlenderDefender/blender_pm/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/blender_project_starter?style=for-the-badge)
 
-## [Super Easy Analytics:](https://github.com/PidgeonTools/SuperEasyAnalytics)
+### [Super Easy Analytics:](https://github.com/PidgeonTools/SuperEasyAnalytics)
 
 Keep track of your Blender Usage times to motivate you using Blender more!
 
@@ -59,7 +64,19 @@ Keep track of your Blender Usage times to motivate you using Blender more!
 ![GitHub issues](https://img.shields.io/github/issues/PidgeonTools/SuperEasyAnalytics?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PidgeonTools/SuperEasyAnalytics?style=for-the-badge)
 
-## [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
+### [Gizmodal Ops](https://github.com/BlenderDefender/Gizmodal-Ops)
+
+Gizmodal Ops seamlessly blends Gizmo and Modal operations to create a much more intuitive workflow.
+
+Features:
+
+- Access Gizmo and modal operations with **one shortcut.**
+- Makes working in Blender much **easier** & more **intuitive**.
+- **Indispensable** for teachers.
+
+<!-- My new addon Gizmodal Ops has just been released. You can get it on [Gumroad](bd-links.netlify.app/gizmodal-ops?s=free), [Blender Market](bd-links.netlify.app/gizmodal-ops?s=bm) and [GitHub.](bd-links.netlify.app/gizmodal-ops?s=gh) -->
+
+### [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
 
 Import Voodoo Camera Tracker Scripts (for Blender 2.5) to Blender 2.8x the easy way!
 If you want to know more [watch or read this tutorial.](https://defenderblender.artstation.com/pages/voodoo-tracker-is-outdated-but-heres-how-you-can-still-use-it-in-blender)
@@ -71,70 +88,53 @@ If you want to know more [watch or read this tutorial.](https://defenderblender.
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/io_voodoo_tracks?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/io_voodoo_tracks?style=for-the-badge)
 
-## [Gizmodal Ops](https://github.com/BlenderDefender/Gizmodal-Ops)
-Gizmodal Ops seamlessly blends Gizmo and Modal operations to create a much more intuitive workflow.
-
-Features:
-- Access Gizmo and modal operations with **one shortcut.**
-- Makes working in Blender much **easier** & more **intuitive**.
-- **Indispensable** for teachers.
-
-<!-- My new addon Gizmodal Ops has just been released. You can get it on [Gumroad](bd-links.netlify.app/gizmodal-ops?s=free), [Blender Market](bd-links.netlify.app/gizmodal-ops?s=bm) and [GitHub.](bd-links.netlify.app/gizmodal-ops?s=gh) -->
-
-## [MoCapkiteFA:](https://github.com/BlenderDefender/MoCapkiteFA)
-
+### [MoCapkiteFA:](https://github.com/BlenderDefender/MoCapkiteFA)
 
 MoCapkiteFA is an addon for Blender, that allows you to quickly set up facial motion capture with just 3 easy steps.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/MoCapkiteFA?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FMOCAPKITEFA.json)](https://bd-links.netlify.app/mocapkite-fa)
 
-
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/MoCapkiteFA?color=green&style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/MoCapkiteFA?style=for-the-badge)](https://github.com/BlenderDefender/MoCapkiteFA/issues)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/MoCapkiteFA?style=for-the-badge)
 
-
-## [Implement Addon Updater:](https://github.com/BlenderDefender/implement_addon_updater)
+### [Implement Addon Updater:](https://github.com/BlenderDefender/implement_addon_updater)
 
 This tool built for developers Helps you to implement the Addon Updater by [CG Cookie](https://github.com/CGCookie/blender-addon-updater).
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/implement_addon_updater?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FIMPLEMENTADDONUPDATER.json)](https://bd-links.netlify.app/implement-addon-updater)
 
-
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/implement_addon_updater?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/implement_addon_updater?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/implement_addon_updater?style=for-the-badge)
 
-## [Bone Widget:](https://github.com/BlenderDefender/boneWidget)
+### [Bone Widget:](https://github.com/BlenderDefender/boneWidget)
 
 Manage your Custom Bone Shapes easier than ever before!
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BlenderDefender/boneWidget?label=Version&style=for-the-badge)
 [![Donate](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBlenderDefender%2FBlenderDefender%2Fshields_endpoint%2FBONEWIDGET.json)](https://bd-links.netlify.app/bone-widget)
 
-
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/boneWidget?color=green&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/boneWidget?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/boneWidget?style=for-the-badge)
 
+## My Github stats:
 
-
-# My Github stats:
 [![Blender Defenders's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlenderDefender&count_private=true&show_icons=true)](https://github.com/PidgeonTools/SuperProjectManager)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlenderDefender&layout=compact)](https://github.com/PidgeonTools/SuperEasyAnalytics)
 
-## Star History
+### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BlenderDefender/io_voodoo_tracks,BlenderDefender/MoCapkiteFA,BlenderDefender/Gizmodal-Ops,PidgeonTools/SuperProjectManager,PidgeonTools/SuperEasyAnalytics&type=Date)](https://star-history.com/#BlenderDefender/io_voodoo_tracks&BlenderDefender/MoCapkiteFA&BlenderDefender/Gizmodal-Ops&PidgeonTools/SuperProjectManager&PidgeonTools/SuperEasyAnalytics&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PidgeonTools/SuperProjectManager,PidgeonTools/SuperEasyAnalytics,BlenderDefender/MoCapkiteFA,BlenderDefender/Gizmodal-Ops&type=Date)](https://star-history.com/#PidgeonTools/SuperProjectManager&PidgeonTools/SuperEasyAnalytics&BlenderDefender/MoCapkiteFA&BlenderDefender/Gizmodal-Ops&Date)
 
+## Latest Youtube videos
 
-
-
-# Latest Youtube videos
 <!-- YOUTUBE:START -->
+
 - [Super Project Manager &lpar;SPM&rpar; - Improving the UI](https://www.youtube.com/watch?v=SZkz7pnF4V8)
 - [How you can use Gizmodal Ops to IMPROVE your transform workflow | #BDQuickTips](https://www.youtube.com/watch?v=7jbyjevN26w)
 - [HOTFIX - Bone Widget 1.9 &lpar;Link in the description&rpar;](https://www.youtube.com/watch?v=3jQ7e01Tjzg)
@@ -142,7 +142,7 @@ Manage your Custom Bone Shapes easier than ever before!
 - [Happy New Year | #shorts](https://www.youtube.com/watch?v=UNLxrUbI_a8)
 <!-- YOUTUBE:END -->
 
-<!-- 
+<!--
 
 ### Connect with me:
 <a href="https://bd-links.netlify.app/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blenderdefender" height="30" width="40" /></a>
@@ -164,7 +164,18 @@ Manage your Custom Bone Shapes easier than ever before!
 
 -->
 
+## Contact
+
+You can reach out to me via email at <contact.blenderdefender@gmail.com>.
+
+## Languages
+
+- :de: Deutsch (German) - Native
+- :gb: English - Fluent
+
 <!--
+https://readme-typing-svg.demolab.com/demo/
+
 ## [Procedural Nodes:](https://github.com/BlenderDefender/ProceduralNodes)
 Download the addon to access four cool Procedural Materials with one click:
 
