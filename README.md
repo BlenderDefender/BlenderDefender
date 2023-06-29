@@ -134,7 +134,6 @@ Manage your Custom Bone Shapes easier than ever before!
 ## Latest Youtube videos
 
 <!-- YOUTUBE:START -->
-
 - [Super Project Manager &lpar;SPM&rpar; - Improving the UI](https://www.youtube.com/watch?v=SZkz7pnF4V8)
 - [How you can use Gizmodal Ops to IMPROVE your transform workflow | #BDQuickTips](https://www.youtube.com/watch?v=7jbyjevN26w)
 - [HOTFIX - Bone Widget 1.9 &lpar;Link in the description&rpar;](https://www.youtube.com/watch?v=3jQ7e01Tjzg)
