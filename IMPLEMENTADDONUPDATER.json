@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "Donate! Funding Goal: $400 (2 days developer time)",
-  "message": "$75",
-  "color": "FF5E00",
+  "message": "$85",
+  "color": "FF6B00",
   "style": "for-the-badge",
   "namedLogo": "gumroad",
   "logoColor": "#ffffff"
