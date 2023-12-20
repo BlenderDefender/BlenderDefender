@@ -1,19 +1,18 @@
 {
-    "schema_version": "super-addon-manager-version-info-1.0.0",
-    "versions": [
-        {
-            "version": [
-                1,
-                0,
-                0
-            ],
-            "allow_automatic_download": true,
-            "download_url": "https://github.com/BlenderDefender/Gizmodal-Ops/releases/download/1_0_0/Gizmodal-Ops.zip",
-            "minimum_blender_version": [
-                2,
-                83,
-                0
-            ]
-        }
-    ]
+  "schema_version": "super-addon-manager-version-info-1.0.0",
+  "versions": [
+    {
+      "allow_automatic_download": true,
+      "version": [1, 0, 1],
+      "download_url": "https://github.com/BlenderDefender/Gizmodal-Ops/releases/download/1_0_1/Gizmodal-Ops.zip",
+      "minimum_blender_version": [2, 83, 0],
+      "release_description": "Bug Fix: Gizmodal Ops now works with Blender 4.0"
+    },
+    {
+      "version": [1, 0, 0],
+      "allow_automatic_download": true,
+      "download_url": "https://github.com/BlenderDefender/Gizmodal-Ops/releases/download/1_0_0/Gizmodal-Ops.zip",
+      "minimum_blender_version": [2, 83, 0]
+    }
+  ]
 }
