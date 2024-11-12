@@ -66,15 +66,18 @@ Keep track of your Blender Usage times to motivate you using Blender more!
 
 ### [Gizmodal Ops](https://github.com/BlenderDefender/Gizmodal-Ops)
 
-Gizmodal Ops seamlessly blends Gizmo and Modal operations to create a much more intuitive workflow.
+Gizmodal Ops takes the Gizmo workflow from other 3D software (tap a key to show the transform, rotation or scale gizmo) and blends this seamlessly with Blender's Modal workflow (for precise transforms, rotations and scaling).
+
+This harmonised workflow is perfect for people coming from other 3D programs without sacrificing the benefits of Blender's modal operations. Ideal for first-time users and Blender veterans alike.
+
+Using Gizmodal Ops is a much more intuitive way of working which you will need to experience to understand and appreciate fully.
 
 Features:
+- Intuitively switches between workflows.
+- 100% free
 
-- Access Gizmo and modal operations with **one shortcut.**
-- Makes working in Blender much **easier** & more **intuitive**.
-- **Indispensable** for teachers.
-
-<!-- My new addon Gizmodal Ops has just been released. You can get it on [Gumroad](bd-links.netlify.app/gizmodal-ops?s=free), [Blender Market](bd-links.netlify.app/gizmodal-ops?s=bm) and [GitHub.](bd-links.netlify.app/gizmodal-ops?s=gh) -->
+> [!TIP]
+> Get Gizmodal Ops from the [Blender Extensions Platform](https://extensions.blender.org/add-ons/blenderdefender-gizmodalops/) for a quick and easy installation!
 
 ### [Import Voodoo Camera Tracks:](https://github.com/BlenderDefender/io_voodoo_tracks)
 
