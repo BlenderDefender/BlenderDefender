@@ -16,6 +16,6 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCye7Q9pi_3WlW4G7h8DNCWw"
           comment_tag_name: "YOUTUBE"
-          commit_message: "Update the README with the latest Blender Defender Youtube Videos"
+          commit_message: "feat: Update the README with the latest Blender Defender Youtube Videos"
           committer_username: "blender-defender-readme-bot"
           
